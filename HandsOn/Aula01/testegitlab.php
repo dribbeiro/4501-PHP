@@ -1,1 +1,0 @@
-teste commit gitlab terminal
